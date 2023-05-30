@@ -3,3 +3,6 @@ Conceptos
 *Clase: Conjunto de instrucciones que definen las caracteristicas de un objeto.
 *Objeto: Todo lo que vemos en la realidad seaq fisico o no
 *Método: Mal llamadas funciones, acciones que hace el objeto.
+*Atributo: son las caracteristicas que posee los diversos objetos que puede tener una clase
+*setters: Una funcion que permite setear o dar un valor a un atributo de una instancia
+*Getters: Función que permite obtener el valor seteado de un atributo, permitiendo el uso del mismo
