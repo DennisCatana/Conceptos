@@ -6,3 +6,6 @@ Conceptos
 *Atributo: son las caracteristicas que posee los diversos objetos que puede tener una clase
 *setters: Una funcion que permite setear o dar un valor a un atributo de una instancia
 *Getters: Función que permite obtener el valor seteado de un atributo, permitiendo el uso del mismo
+*Puntero: Es el espacio determinado de memoria donde se guarda una variable
+*Constructor: Se utiliza para inicializar los métodos.
+*GitHub: Es un repositorio que tienen como finalidad el registro de versiones de nuestro código, brinda un almacenamiento en la nube y trabajo colaborativo con git.
