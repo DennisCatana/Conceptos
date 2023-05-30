@@ -1,0 +1,5 @@
+Conceptos
+
+*Clase: Conjunto de instrucciones que definen las caracteristicas de un objeto.
+*Objeto: Todo lo que vemos en la realidad seaq fisico o no
+*Método: Mal llamadas funciones, acciones que hace el objeto.
